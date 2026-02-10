@@ -1,0 +1,5 @@
+{
+  "name": "CineCritique",
+  "description": "A sophisticated movie review and discovery platform powered by Gemini AI, allowing users to rate, review, and explore detailed cinematic insights including cast, budget, and box office data.",
+  "requestFramePermissions": []
+}
